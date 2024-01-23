@@ -1,1 +1,1 @@
-# QMSS5063-Applied-Data-Science
+# QMSS5063-Data-Visualization
